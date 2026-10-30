@@ -1,0 +1,10 @@
+# create environment
+python -m venv query_test
+
+# access it
+.\query_test\Scripts\Activate.ps1
+
+# install rquireemnts
+python -m pip install -r requirements2.txt
+
+python docker_test.py

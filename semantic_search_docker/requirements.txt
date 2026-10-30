@@ -1,0 +1,5 @@
+pandas>=2.3,<4
+numpy>=2.3,<3
+sentence-transformers>=5,<7
+pyspellchecker==0.9.1
+gradio==6.30.0
